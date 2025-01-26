@@ -3,9 +3,9 @@ A lean Expense Tracker built in Python, Streamlit, and MySQL that allows users t
 
 Authors
 
-Kripesh Bhele
+Kripesh Bhele (https://github.com/Krio69)
 
-Pratik Shrestha
+Pratik Shrestha (https://github.com/kitarp3690)
 
 Murari Pandey 
 
